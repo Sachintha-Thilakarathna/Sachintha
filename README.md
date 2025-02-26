@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sachintha0041
+- 👋 Hi, I’m @SachinthaThilakarathna
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Html,Css,Javascript,Python,Php
 - 📫 How to reach me ...thilakathnasachintha@gmail.com
