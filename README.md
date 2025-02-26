@@ -33,8 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachintha0041&" alt="sachintha0041" /></p>
 
--Thanks for stopping by👋 </br></br>(https://github.com/user-attachments/assets/c05fff11-ac77-4129-8054-b0d0dccc351e)
-
+-Thanks for stopping by👋-
 
 <!---
 Sachintha0041/Sachintha0041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
