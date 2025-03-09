@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachintha Thilakarathna</h1>
 <h3 align="center">I am a learner frontend developer from SriLanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachintha-Thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="sachintha0041" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachintha-Thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Sachintha-Thilakarathna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachintha0041" alt="sachintha0041" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sachintha-Thilakarathna" alt="Sachintha-Thilakarathna" /></a> </p>
 
 - 🌱 I’m currently learning **Html,css,javascript,python,php**
 
